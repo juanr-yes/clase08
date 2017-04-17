@@ -24,9 +24,11 @@ body {
 }
 
 .subtitulo {
-   background-color: black;
+   background-color: ;
    width: 100%;
-   height: 20px;
+   height: 40px;
+   padding: 6px 0px 20px 5px;
+   margin: 0px 0px 8px 0px;
 }
 
 .footer {
@@ -49,4 +51,8 @@ body {
 
 #formulario {
    padding: 6px 0px 10px 0px;
+}
+
+#mapa {
+   padding: 6px 0px 10px 50px;
 }
